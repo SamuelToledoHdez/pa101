@@ -8,5 +8,5 @@ int main(){
 
 
 
-printf("touckjikh that git ass@@222);
+printf("touckjikh that git ass@@222");
 }
